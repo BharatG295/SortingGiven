@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2018-10-22T03:15:15" hostname="Bharat-PC" time="0.053">
+  <properties/>
+  <testcase name="test10" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="test11" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test12" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test13" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test14" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="test15" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test16" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test17" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test18" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test19" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test20" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test21" classname="test.java.AlgoTest" time="0.005"/>
+  <testcase name="test22" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test23" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test24" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test25" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="test26" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test27" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test28" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test29" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test30" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test31" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test32" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test33" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test34" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test35" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test36" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test4" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test6" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="test7" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="test8" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="test9" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="all_same_test" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
